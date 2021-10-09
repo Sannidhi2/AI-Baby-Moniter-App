@@ -1,0 +1,25 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#number_of_objects
+{
+font-size: 20px;
+background-color:white;
+}
+body
+{
+    background-size:cover;
+    background-position:center;
+    font-family: 'IM Fell DW Pica', serif;
+}
+canvas
+{
+    box-shadow:10px 10px 10px black;
+    border-radius:10px;
+    margin-top:30px;
+}
